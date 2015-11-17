@@ -1,0 +1,100 @@
+{
+	"queries" : [
+		{
+			"name" : "tutorials",
+			"columns" : [ "description", "name" ],
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "tutorial"
+				}
+			]
+		},
+		{
+			"name" : "vignettes",
+			"columns" : [ "description", "date_modified" ],
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "vignette"
+				}
+			]
+		},
+		{
+			"name" : "help patches",
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "helpfile"
+				}
+			]
+		},		
+		{
+			"name" : "ref pages",
+			"columns" : [ "description", "date_modified" ],
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "reffile"
+				}
+			]
+		},
+		
+		{
+			"name" : "large images",
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "imagefile"
+				},
+				{
+					"field" : "size",
+					"comparison" : "greaterthan",
+					"argument" : "100",
+					"quantifier" : "kb"
+				}
+			]
+		}		
+
+	]
+}

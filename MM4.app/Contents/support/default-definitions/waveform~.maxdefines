@@ -1,0 +1,59 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.39216, 0.39216, 0.39216, 1.0 ],
+			"class" : "waveform~",
+			"attr" : "gridcolor",
+			"label" : "Grid Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.12941, 0.0, 0.0, 1.0 ],
+			"class" : "waveform~",
+			"attr" : "waveformcolor",
+			"label" : "Waveform Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.23529, 0.69804, 0.67843, 1.0 ],
+			"class" : "waveform~",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "waveform~",
+			"attr" : "labeltextcolor",
+			"label" : "Unit Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "waveform~",
+			"attr" : "bordercolor",
+			"label" : "Frame Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.39216, 0.39216, 0.39216, 1.0 ],
+			"class" : "waveform~",
+			"attr" : "linecolor",
+			"label" : "Line Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.37255, 1.0, 0.5 ],
+			"class" : "waveform~",
+			"attr" : "selectioncolor",
+			"label" : "Selection Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.7451, 0.53725, 1.0, 1.0 ],
+			"class" : "waveform~",
+			"attr" : "labelbgcolor",
+			"label" : "Unit Back Color",
+			"style" : "rgba"
+		}
+ ]
+}

@@ -1,0 +1,39 @@
+{
+	"definitions" : [ 		
+		{
+			"attr" : "bgcolor",
+			"class" : "jit.fpsgui",
+			"default" : [ 0.73, 0.73, 0.73, 1.0 ],
+			"label" : "Background Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "textcolor",
+			"class" : "jit.fpsgui",
+			"default" : [ 0.12, 0.12, 0.12, 1.0 ],
+			"label" : "Text Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "htextcolor",
+			"class" : "jit.fpsgui",
+			"default" : [ 0.01, 0.01, 0.01, 1.0 ],
+			"label" : "Hover Text Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "bgcolor2",
+			"class" : "jit.fpsgui",
+			"default" : [ 0.92, 0.92, 0.92, 1.0 ],
+			"label" : "Mode Background Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "bordercolor",
+			"class" : "jit.fpsgui",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

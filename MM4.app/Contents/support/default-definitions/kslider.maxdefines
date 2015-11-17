@@ -1,0 +1,32 @@
+{
+	"definitions" : [ 		
+		{
+			"attr" : "whitekeycolor",
+			"class" : "kslider",
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"label" : "White Key Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "hkeycolor",
+			"class" : "kslider",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Highlighted Key Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "blackkeycolor",
+			"class" : "kslider",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Black Key Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "bordercolor",
+			"class" : "kslider",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

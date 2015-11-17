@@ -1,0 +1,24 @@
+{
+	"definitions" : [ 		{
+			"attr" : "bgcolor",
+			"class" : "radiogroup",
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "activecolor",
+			"class" : "radiogroup",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Active Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "inactivecolor",
+			"class" : "radiogroup",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Inactive Color",
+			"style" : "rgba"
+		}
+ ]
+}

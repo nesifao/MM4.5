@@ -1,0 +1,31 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "button",
+			"attr" : "fgcolor",
+			"label" : "Button Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.71328, 0.71328, 0.71328, 1.0 ],
+			"class" : "button",
+			"attr" : "outlinecolor",
+			"label" : "Outline Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.890196, 0.090196, 1.0 ],
+			"class" : "button",
+			"attr" : "blinkcolor",
+			"label" : "Blink Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.91328, 0.91328, 0.91328, 0.75 ],
+			"class" : "button",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+ ]
+}

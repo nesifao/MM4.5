@@ -1,0 +1,72 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.917647, 0.94902, 0.054902, 1.0 ],
+			"class" : "live.text",
+			"attr" : "activebgoncolor",
+			"label" : "Background Color On (Active)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "live.text",
+			"attr" : "activetextoncolor",
+			"label" : "Text Color (On)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0 ],
+			"class" : "live.text",
+			"attr" : "rounded",
+			"label" : "Round-ness of Box Corners"
+		}
+, 		{
+			"default" : [ 0.403922, 0.454902, 0.54902, 1.0 ],
+			"class" : "live.text",
+			"attr" : "textcolor",
+			"label" : "Text Color (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.572549, 0.615686, 0.658824, 1.0 ],
+			"class" : "live.text",
+			"attr" : "bgcolor",
+			"label" : "Background Color Off (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.text",
+			"attr" : "focusbordercolor",
+			"label" : "Border Color (Focus)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "live.text",
+			"attr" : "activetextcolor",
+			"label" : "Text Color (Off)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.572549, 0.615686, 0.658824, 1.0 ],
+			"class" : "live.text",
+			"attr" : "activebgcolor",
+			"label" : "Background Color Off (Active)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.27451, 0.32549, 0.4, 1.0 ],
+			"class" : "live.text",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.815686, 0.847059, 0.886275, 1.0 ],
+			"class" : "live.text",
+			"attr" : "bgoncolor",
+			"label" : "Background Color On (Inactive)",
+			"style" : "rgba"
+		}
+ ]
+}

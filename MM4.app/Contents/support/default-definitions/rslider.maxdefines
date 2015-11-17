@@ -1,0 +1,24 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.65, 0.65, 0.65, 1. ],
+			"class" : "rslider",
+			"attr" : "fgcolor",
+			"label" : "Range Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1., 1., 1., 1. ],
+			"class" : "rslider",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1. ],
+			"class" : "rslider",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

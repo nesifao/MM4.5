@@ -1,0 +1,70 @@
+Help
+
+omx.comp~ - OctiMax Compressor / Gate
+
+Downward Expander:
+A noise gate is effective for reducing background hiss when no other signal is present. Here, it's implemented as a Ratio 2:1 Downward Expander.
+
+Threshold:  
+Thresholds are independent for each band, specified in dB below full scale.
+
+Compressor:
+The Compressor has an unlimited range of gain reduction, and up to 36dB of gain amplification. Any signal above the threshold will be reduced, and any signal below the threshold will be amplified.
+
+Dual Band:  
+The Compressor can be used in either wideband or dual band mode. In dual band, a crossover filter around 200hz splits the audio into two bands, thus preventing bass pumping.
+
+Sidechain Filter:  
+A selectable Sidechain Filter filters out part of the upper midrange, to make the compressor less sensitive to vocals, producing a much gentler response at any ratio - however this will also produce more output overshoots (over 0dB).
+
+Sidechain Delay:  
+An adjustable Sidechain Delay enables you to emulate vintage "opto" compressors by delaying compressor action, thus introducing large peaks at transients. This is very useful for percussion and string instruments.
+
+Range:  
+Specifies the maximum amount of gain amplification allowed. The Range setting does not take Ratio into account.
+
+Example: If range is set to 24 dB, and the ratio is 2:1, the most gain amplification you can get (after the ratio is applied) is in fact 12 dB.
+
+Range only applies to gain amplification! If the input audio is above the set threshold, gain reduction will occur no matter what the Range is set to.
+
+Gating / Freeze Thresholds: 
+Gating is not the same thing as noise gating (downward expansion). The purpose of Gating is to prevent gain amplification (release action) when there is no usable signal anyway. This effectively combats background hiss build-up.
+
+When the input signal drops below the Gating threshold, release speeds will be slowed by a factor of three. When the input signal drops below the Freeze threshold, release will seize completely.
+
+Attack/Release Parameters:
+Signify "rate", not "time". Higher value = faster. The scale is logarithmic, range 0 - 150.
+
+Progressive Release:  
+At higher settings, the compressor will release faster at lower gain (= more gain reduction) values. This means that the audio will be more heavily compressed when the input signal is louder. This can create an illusion of dynamics. Especially useful at ratio Infinite:1, which could sound over-compressed without this option. 
+
+Ratio:  
+Specifies the compression ratio, between 1:1 and Infinite:1.
+
+Threshold:  
+Specifies where the unity-point of the compressor should be. i.e. if threshold is -12.00 and you input a -12 signal, the compressor will adjust itself to unity (i.e. no gain change). In the same scenario, if you raise the threshold to -6, the compressor will apply up to 6dB of gain (depending on both the Ratio and Range controls).
+
+Smoothing:  
+Applies a low-pass filter to the control signal. Useful both to prevent artifacts (gain fluttering) from high attack/release values, and to intentionally make the compressor sluggish, which can create a nice effect for percussion instruments, and add that extra "snap" to any transient.
+
+Channel Coupling:  
+Stereo, Left or Right.
+In Stereo mode, the gain control signal is derived from whichever channel is loudest, unlike in Left or Right mode where the gain control signal will only be derived from the selected channel.  Also useful for "keying" or "ducking" effects where the energy of one sound can modulate the level of another sound such as reverb.
+
+Limiter Response: Punchy / Smooth 
+Controls a tradeoff in the limiter.  
+Punchy Response yields extremely short attack and release times, useful for transparent limiting, or to create loudness. However, if over-used, intermodulation distortion may result.  
+Smooth uses longer attack and release times - still a fast look-ahead limiter, but much less intermodulation distortion. However, the resulting sound isn't as punchy as with Punchy Response.
+
+Internal Presets:  These presets are to be considered "starting points" and should be tweaked for your particular purpose or desired sound.
+ Guitar
+ Bass
+ Vocal
+ Drums
+ Program Material - An attempt at smooth "gain riding" of mixed program material as well as can be done with a non-multiband processor
+
+
+
+
+Copyright © Octiv Inc. 2000 - 2003
+www.octiv.com

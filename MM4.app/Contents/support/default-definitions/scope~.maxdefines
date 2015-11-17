@@ -1,0 +1,32 @@
+{
+	"definitions" : [ 		
+		{
+			"attr" : "bgcolor",
+			"class" : "scope~",
+			"default" : [ 0.53, 0.53, 0.53, 1.0 ],
+			"label" : "Background Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "fgcolor",
+			"class" : "scope~",
+			"default" : [ 0.4, 1.0, 0.2, 1.0 ],
+			"label" : "Foreground Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "bordercolor",
+			"class" : "scope~",
+			"default" : [ 0.2, 0.2, 0.2, 1.0 ],
+			"label" : "Border Color",
+			"style" : "rgba"
+		},
+		{
+			"attr" : "gridcolor",
+			"class" : "scope~",
+			"default" : [ 0.33, 0.33, 0.33, 1.0 ],
+			"label" : "Grid Color",
+			"style" : "rgba"
+		}
+	]
+}

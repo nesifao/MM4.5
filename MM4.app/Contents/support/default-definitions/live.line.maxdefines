@@ -1,0 +1,10 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.572549, 0.615686, 0.658824, 1.0 ],
+			"class" : "live.line",
+			"attr" : "linecolor",
+			"label" : "Line Color",
+			"style" : "rgba"
+		}
+ ]
+}

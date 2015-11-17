@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="./_c74_ref.xsl" type="text/xsl"?>
+
+<c74object name="windowed-fft~" module="msp" category="MSP FFT" kind="patcher">
+	<digest>Windowed/Overlapped Fast Fourier Transform</digest>
+	<description>
+		<o>windowed-fft~</o> is an abstraction wrapping a pair of <o>fft~</o> objects and performing the necessary windowing and overlap to use the output for analysis.
+	</description>
+	
+	
+	<!--METADATA-->
+	<metadatalist>
+		<metadata name="author">Cycling '74</metadata>
+		<metadata name="tag">MSP</metadata>
+		<metadata name="tag">MSP FFT</metadata>
+	</metadatalist>
+	
+
+	<!--ARGUMENTS-->
+	<objarglist>
+
+		<objarg name="number-of-FFT-samples" optional="0" type="int">
+			<digest>Number of FFT points</digest>
+			<description>
+				The first argument specifies the number of points (samples) in the FFT.  It must be a power of two.  If you are unsure, use 1024.
+			</description>
+		</objarg>
+
+	</objarglist>
+	
+
+	<!--MESSAGES-->
+	<methodlist>
+		
+
+		<method name="signal">
+			<arglist />
+			<digest>Audio signal to be transformed</digest>
+			<description>
+				Audio signal to be transformed from the time domain into the frequency domain.
+			</description>
+		</method>
+		
+	</methodlist>
+	
+	
+	<!--ATTRIBUTES-->
+
+
+	<!--SEEALSO-->
+	<seealsolist>
+		<seealso name="fft~" />
+		<seealso name="pfft~" />
+	</seealsolist>
+
+
+</c74object>

@@ -1,0 +1,23 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-3", "dial", "float", 127.0, 5, "obj-4", "dial", "float", 124.0, 5, "obj-5", "dial", "float", 112.0, 5, "obj-6", "dial", "float", 101.0 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-3", "dial", "float", 121.0, 5, "obj-4", "dial", "float", 106.0, 5, "obj-5", "dial", "float", 100.0, 5, "obj-6", "dial", "float", 89.0 ]
+		}
+, 		{
+			"number" : 3,
+			"data" : [ 5, "obj-3", "dial", "float", 109.0, 5, "obj-4", "dial", "float", 94.0, 5, "obj-5", "dial", "float", 85.0, 5, "obj-6", "dial", "float", 74.0 ]
+		}
+, 		{
+			"number" : 4,
+			"data" : [ 5, "obj-3", "dial", "float", 91.0, 5, "obj-4", "dial", "float", 82.0, 5, "obj-5", "dial", "float", 67.0, 5, "obj-6", "dial", "float", 62.0 ]
+		}
+, 		{
+			"number" : 5,
+			"data" : [ 5, "obj-3", "dial", "float", 76.0, 5, "obj-4", "dial", "float", 67.0, 5, "obj-5", "dial", "float", 52.0, 5, "obj-6", "dial", "float", 53.0 ]
+		}
+ ]
+}

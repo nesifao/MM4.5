@@ -1,0 +1,52 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "flonum",
+			"attr" : "htextcolor",
+			"label" : "Highlighted Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "flonum",
+			"attr" : "hbgcolor",
+			"label" : "Highlighted Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.87, 0.82, 0.24, 1.0 ],
+			"class" : "flonum",
+			"attr" : "htricolor",
+			"label" : "Highlighted Triangle Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"class" : "flonum",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.75, 0.75, 0.75, 1.0 ],
+			"class" : "flonum",
+			"attr" : "tricolor",
+			"label" : "Triangle Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "flonum",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "flonum",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+ ]
+}

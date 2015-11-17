@@ -1,0 +1,101 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.44088, 0.62161, 0.07375, 0.4 ],
+			"class" : "nodes",
+			"attr" : "candycane4",
+			"label" : "Candycane Color 3",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.4, 0.3, 0.4, 1.0 ],
+			"class" : "nodes",
+			"attr" : "knobcolor",
+			"label" : "Knob Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "nodes",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.2, 0.2, 0.2, 0.4 ],
+			"class" : "nodes",
+			"attr" : "nodecolor",
+			"label" : "Node Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.58784, 0.82881, 0.43166, 0.4 ],
+			"class" : "nodes",
+			"attr" : "candycane5",
+			"label" : "Candycane Color 4",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.1, 0.1, 0.1, 0.8 ],
+			"class" : "nodes",
+			"attr" : "knobbordercolor",
+			"label" : "Knob Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.9, 0.9, 0.9, 0.8 ],
+			"class" : "nodes",
+			"attr" : "pointcolor",
+			"label" : "Node Center Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.7348, 0.03601, 0.78958, 0.4 ],
+			"class" : "nodes",
+			"attr" : "candycane6",
+			"label" : "Candycane Color 5",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.1, 0.1, 0.1, 0.6 ],
+			"class" : "nodes",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.14696, 0.2072, 0.35792, 0.4 ],
+			"class" : "nodes",
+			"attr" : "candycane2",
+			"label" : "Candycane Color 1",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.88176, 0.24321, 0.14749, 0.4 ],
+			"class" : "nodes",
+			"attr" : "candycane7",
+			"label" : "Candycane Color 6",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.4, 0.4, 0.4, 1.0 ],
+			"class" : "nodes",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.29392, 0.41441, 0.71583, 0.4 ],
+			"class" : "nodes",
+			"attr" : "candycane3",
+			"label" : "Candycane Color 2",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.02872, 0.45042, 0.50541, 0.4 ],
+			"class" : "nodes",
+			"attr" : "candycane8",
+			"label" : "Candycane Color 7",
+			"style" : "rgba"
+		}
+ ]
+}

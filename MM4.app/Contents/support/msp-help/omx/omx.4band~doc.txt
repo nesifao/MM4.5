@@ -1,0 +1,45 @@
+Help
+
+omx.4band~ - OctiMax 4 Band
+
+Downward Expander:
+OctiMax 4 band is equipped with dual band downward expanders, to effectively combat background noise. One band operates on the entire range, and the other band operates on high frequencies only.
+
+Thresholds:  
+Thresholds are independent for both bands, specified in dB below full scale.
+
+Input AGC:
+OctiMax AGCs normally work above unity gain (gain amplification).
+
+Gating Threshold:  
+Affect both the Input and Multiband AGCs. When the input signal drops below the Gating threshold, release will seize. This is useful to prevent background noise build-up.
+
+Attack/Release Parameters:  
+Signify "rate", not "time". Higher value = faster. The scale is logarithmic.
+
+Range:  
+Specifies how much the AGC may amplify the audio.  OctiMax 4 band always operates at ratio Infinite:1.
+
+Multiband:
+
+Attack/Release Parameters:
+Signify "rate", not "time". Higher value = faster. The scale is logarithmic.
+
+AGC Drive:  Gain control before the AGC in each band (B1 to B4).
+
+Output Mix:  
+The B1 to B4 out mix controls are gain controls for each band, and are useful as an equalizer.
+
+Final Limiter Drive:  
+Gain control before the final limiter.
+
+Internal Presets:  
+These presets are to be considered "starting points" and should be tweaked for your particular purpose or desired sound.
+Standard - Appropriate for anything, all genres of music, movies, television viewing, etc. 
+Pop - Great for any modern genre including rock, country, trance.
+Movies - Similar to standard but optimized for dynamic movie soundtracks.
+
+
+
+Copyright © Octiv Inc. 2000 - 2003
+www.octiv.com

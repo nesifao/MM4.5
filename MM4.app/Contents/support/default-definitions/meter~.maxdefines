@@ -1,0 +1,53 @@
+{
+	"definitions" : [ 		
+		{
+			"attr" : "bgcolor",
+			"class" : "meter~",
+			"default" : [ 0.4063, 0.4063, 0.4063, 1.0 ],
+			"label" : "Background Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "coldcolor",
+			"class" : "meter~",
+			"default" : [ 0.0, 0.6, 0.0, 1.0 ],
+			"label" : "Cold Signal Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "hotcolor",
+			"class" : "meter~",
+			"default" : [ 1.0, 0.6, 0.0, 1.0 ],
+			"label" : "Hot Signal Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "overloadcolor",
+			"class" : "meter~",
+			"default" : [ 1.0, 0.0, 0.0, 1.0 ],
+			"label" : "Overloaded Signal Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "warmcolor",
+			"class" : "meter~",
+			"default" : [ 0.8545, 0.8545, 0.0, 1.0 ],
+			"label" : "Warm Signal Color",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "tepidcolor",
+			"class" : "meter~",
+			"default" : [ 0.6, 0.73243, 0.0, 1.0 ],
+			"label" : "Tepid Signal Color",
+			"style" : "rgba"
+		},
+		{
+			"attr" : "bordercolor",
+			"class" : "meter~",
+			"default" : [ 0.2, 0.2, 0.2, 1.0 ],
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+	]
+}

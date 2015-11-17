@@ -1,0 +1,80 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.8, 0.8, 0.8, 1.0 ],
+			"class" : "preset",
+			"attr" : "stored1",
+			"label" : "Stored Preset Color 1",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.55, 0.568, 0.82, 1.0 ],
+			"class" : "preset",
+			"attr" : "active2",
+			"label" : "Active Preset Color 2",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.2, 0.2, 0.2, 0.8 ],
+			"class" : "preset",
+			"attr" : "circlecolor",
+			"label" : "Circle Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"class" : "preset",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.41, 0.41, 0.41, 1.0 ],
+			"class" : "preset",
+			"attr" : "stored2",
+			"label" : "Stored Preset Color 2",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.68, 0.937, 0.658, 1.0 ],
+			"class" : "preset",
+			"attr" : "clicked1",
+			"label" : "Clicked Preset Color 1",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.83, 0.83, 0.83, 1.0 ],
+			"class" : "preset",
+			"attr" : "emptycolor",
+			"label" : "Empty Preset Location Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.79, 0.83, 1.0, 1.0 ],
+			"class" : "preset",
+			"attr" : "active1",
+			"label" : "Active Preset Color 1",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"class" : "preset",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.576, 0.733, 0.514, 1.0 ],
+			"class" : "preset",
+			"attr" : "clicked2",
+			"label" : "Clicked Preset Color 2",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.94, 0.94, 0.94, 1.0 ],
+			"class" : "preset",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+ ]
+}

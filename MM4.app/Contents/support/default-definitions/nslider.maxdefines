@@ -1,0 +1,17 @@
+{
+	"definitions" : [ 		{
+			"attr" : "bgcolor",
+			"class" : "nslider",
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "bordercolor",
+			"class" : "nslider",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

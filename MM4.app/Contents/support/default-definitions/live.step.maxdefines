@@ -1,0 +1,87 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "live.step",
+			"attr" : "blackkeycolor",
+			"label" : "Black Key Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.step",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.666667, 0.698039, 0.717647, 1.0 ],
+			"class" : "live.step",
+			"attr" : "bgunitcolor",
+			"label" : "Unit Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.3, 0.3, 0.25 ],
+			"class" : "live.step",
+			"attr" : "hbgcolor",
+			"label" : "Highlighted Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.87, 0.87, 0.87, 1.0 ],
+			"class" : "live.step",
+			"attr" : "bgcolor2",
+			"label" : "Second Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.75, 0.23, 1.0 ],
+			"class" : "live.step",
+			"attr" : "stepcolor2",
+			"label" : "Second Step Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.96, 0.96, 0.96, 1.0 ],
+			"class" : "live.step",
+			"attr" : "whitekeycolor",
+			"label" : "White Key Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.96, 0.96, 0.96, 1.0 ],
+			"class" : "live.step",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.18, 0.63, 1.0, 1.0 ],
+			"class" : "live.step",
+			"attr" : "stepcolor",
+			"label" : "Step Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.27451, 0.32549, 0.4, 1.0 ],
+			"class" : "live.step",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "live.step",
+			"attr" : "loopbordercolor",
+			"label" : "Loop Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.572549, 0.615686, 0.658824, 1.0 ],
+			"class" : "live.step",
+			"attr" : "bgrulercolor",
+			"label" : "Ruler Background Color",
+			"style" : "rgba"
+		}
+ ]
+}

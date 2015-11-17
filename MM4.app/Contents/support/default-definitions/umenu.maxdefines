@@ -1,0 +1,94 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 1 ],
+			"class" : "umenu",
+			"attr" : "arrowframe",
+			"label" : "Draw Arrow Frame",
+			"style" : "onoff"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "umenu",
+			"attr" : "bgcolor2",
+			"label" : "Popup Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.92, 0.92, 0.92, 1.0 ],
+			"class" : "umenu",
+			"attr" : "hltcolor",
+			"label" : "Hilight Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.55, 0.55, 0.55, 1.0 ],
+			"class" : "umenu",
+			"attr" : "togcolor",
+			"label" : "Toggle Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1 ],
+			"class" : "umenu",
+			"attr" : "arrow",
+			"label" : "Draw Arrow",
+			"style" : "onoff"
+		}
+, 		{
+			"default" : [ 0.86, 0.86, 0.86, 1.0 ],
+			"class" : "umenu",
+			"attr" : "arrowbgcolor",
+			"label" : "Arrow Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "umenu",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.15, 0.15, 0.15, 1.0 ],
+			"class" : "umenu",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.15, 0.15, 0.15, 1.0 ],
+			"class" : "umenu",
+			"attr" : "textcolor2",
+			"label" : "Popup Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1 ],
+			"class" : "umenu",
+			"attr" : "arrowlink",
+			"label" : "Link Arrow Colors",
+			"style" : "onoff"
+		}
+, 		{
+			"default" : [ 0.43, 0.43, 0.43, 1.0 ],
+			"class" : "umenu",
+			"attr" : "discolor",
+			"label" : "Disabled Item Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"class" : "umenu",
+			"attr" : "framecolor",
+			"label" : "Frame Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.22, 0.22, 0.22, 1.0 ],
+			"class" : "umenu",
+			"attr" : "arrowcolor",
+			"label" : "Arrow Color",
+			"style" : "rgba"
+		}
+ ]
+}

@@ -1,0 +1,83 @@
+Help
+
+omx.5band~ - OctiMax 5 Band
+
+Downward Expander:
+OctiMax 5 Band is equipped with multi-channel, multi-band downward expanders, to effectively combat background noise.
+
+Thresholds:  
+Thresholds are independent for each band, specified in dB below full scale. 
+
+Input AGC:
+OctiMax AGCs normally work above unity gain (gain amplification).
+
+Gating / Freeze Thresholds: 
+Affect both the Input and Multiband AGCs. When the input signal drops below the Gating threshold, release speeds will be slowed by a factor of three. When the input signal drops below the Freeze threshold, release will seize completely. These thresholds are useful to prevent background hiss amplification.
+
+Attack/Release Parameters:  
+Signify "rate", not "time". Higher value = faster. The scale is logarithmic, range 0 - 150.
+
+Progressive Release:  
+At higher settings, the AGC will release faster at lower gain (= more gain reduction) values. This can create a greater sense of dynamics, even at ratio Infinite:1.
+
+Range:  
+Specifies how much the AGC may amplify the audio, without taking into account the Ratio control, which will limit this. 
+
+Example: If range is set to 24 dB, and the ratio is 2:1, the most gain amplification you can get is in fact 12 dB.
+
+Ratio:  
+Specifies the amount of compression, between 1:1 and Infinite:1.
+
+
+Multiband Levels
+
+Attack/Release Parameters:  
+Signify *rate*, not *time*. Higher value = faster. The scale is logarithmic, range 0 - 150.
+
+Progressive Release:  
+At higher settings, the AGC will release faster at lower gain (= more gain reduction) values. This can create a greater sense of dynamics, even at ratio Infinite:1.
+
+AGC Drive:  
+Gain control before the AGC in each band (B1 to B5).
+
+AGC Threshold:  
+Threshold setting for the AGC in each band (B1 to B5).
+
+Lim Threshold:  
+Sets the threshold of the limiter in relation to the AGC threshold for that band.
+
+Example: If B1 AGC thresh is +6.00dB, and the B1 lim thresh is +1.00 dB, the actual B1 lim thresh will be +7.00dB (but still only +1.00 dB above the AGC).
+
+Range:  
+Specifies how much the AGC may amplify the audio, without taking into account the Ratio control, which will limit this. 
+
+Example: If range is set to 24 dB, and the ratio is 2:1, the most gain amplification you can get is in fact 12 dB.
+
+Infinite:1 ratio above threshold:  
+If enabled, the ratio in that band will be Infinite:1 any time there is gain reduction (i.e. the input signal is above the threshold), no matter what the Multiband Ratio is set to. 
+
+Ratio:  
+Specifies the amount of compression, between 1:1 and Infinite:1.
+
+Output Mix:  
+The B1 to B5 out mix controls are gain controls for each band, and are useful as an equalizer.
+
+Final Limiter Drive:  
+Gain control before the final limiter.
+
+Punchy Response/Minimize Intermodulation: 
+Controls a tradeoff in the final limiter.  Punchy Response yields extremely short attack and release times, useful for transparent limiting, or to create loudness. However, if over-used, intermodulation distortion may result.  Minimize Intermodulation uses longer attack and release times - still a fast look-ahead limiter, but much less intermodulation distortion if over-used. However, the resulting sound isn’t as punchy as with "Punchy Response."
+
+Output Level: 
+Used for attenuating the output, but clipping will never occur even if you set it to gain. The gain for each channel will take both this control and the controls on the Global Settings page into account, but the gain for each channel will be clamped below 0 to prevent clipping. (This may change soon, as VST and MAX plug-ins use floating-point samples and thus allow overshooting samples.)
+
+Internal Presets:  
+These presets are to be considered "starting points" and should be tweaked for your particular purpose or desired sound.
+Universal - Appropriate for anything, all genres of music, movies, television viewing, etc. 
+Pop - Great for any modern genre including rock, country, trance.
+Hit Radio - Loud sound, heavy processing, great for broadcasting.
+FM Radio - Simulated FM radio to show off OctiMax's versatility but not necessarily a good way to use it.  
+
+
+Copyright © Octiv Inc. 2000 - 2003
+www.octiv.com

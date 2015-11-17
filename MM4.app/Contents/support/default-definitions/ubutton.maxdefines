@@ -1,0 +1,16 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.475, 0.695, 1.0, 0.5 ],
+			"class" : "ubutton",
+			"attr" : "hltcolor",
+			"label" : "Hilight Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0 ],
+			"class" : "ubutton",
+			"attr" : "rounded",
+			"label" : "Highlight Round-ness"
+		}
+ ]
+}

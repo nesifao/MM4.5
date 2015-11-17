@@ -1,0 +1,59 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"class" : "attrui",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "attrui",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.75, 0.75, 0.75, 1.0 ],
+			"class" : "attrui",
+			"attr" : "tricolor",
+			"label" : "Triangle Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "attrui",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.87, 0.87, 0.87, 1.0 ],
+			"class" : "attrui",
+			"attr" : "bgcolor2",
+			"label" : "Second Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0 ],
+			"class" : "attrui",
+			"attr" : "showcaption",
+			"label" : "Show Caption",
+			"style" : "onoff"
+		}
+, 		{
+			"default" : [ 0.22, 0.22, 0.22, 1.0 ],
+			"class" : "attrui",
+			"attr" : "arrowcolor",
+			"label" : "Arrow Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.87, 0.82, 0.24, 1.0 ],
+			"class" : "attrui",
+			"attr" : "htricolor",
+			"label" : "Highlighted Triangle Color",
+			"style" : "rgba"
+		}
+ ]
+}

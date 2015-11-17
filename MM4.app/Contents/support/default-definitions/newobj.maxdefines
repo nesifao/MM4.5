@@ -1,0 +1,30 @@
+{
+	"definitions" : [
+		{
+			"class" : "newobj",
+			"attr" : "color",
+			"default" : [0.8, 0.84, 0.71, 1.],
+			"style" : "rgba",
+			"label" : "Border Color",
+			"category" : "Color"
+		},
+		{
+			"class" : "newobj",
+			"attr" : "bgcolor",
+			"default" : [ 1., 1., 1., 1.],
+			"style" : "rgba",
+			"label" : "Background Color",
+			"category" : "Color"
+		},
+		{
+			"class" : "newobj",
+			"attr" : "textcolor",
+			"default" : [ 0., 0., 0., 1.],
+			"style" : "rgba",
+			"label" : "Text Color",
+			"category" : "Color"
+		}
+	]
+}
+
+			

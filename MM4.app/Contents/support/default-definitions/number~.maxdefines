@@ -1,0 +1,24 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0., 0., 0., 1. ],
+			"class" : "number~",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1. ],
+			"class" : "number~",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.978, 0.978, 0.978, 1. ],
+			"class" : "number~",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+ ]
+}

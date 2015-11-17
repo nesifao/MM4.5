@@ -1,0 +1,73 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.62817, 0.62817, 0.62817, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "markercolor",
+			"label" : "Grid Lines Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.82353, 0.2902, 0.21176, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "hbwidthcolor",
+			"label" : "Selection Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.08627, 0.08627, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "hcurvecolor",
+			"label" : "Highlight Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 0.6 ],
+			"class" : "filtergraph~",
+			"attr" : "hfgcolor",
+			"label" : "Highlight Foreground Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.94267, 0.94267, 0.94267, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.87843, 0.87843, 0.87843, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "fgcolor",
+			"label" : "Foreground Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.29804, 0.42353, 0.67451, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "bwidthcolor",
+			"label" : "Band Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "curvecolor",
+			"label" : "Curve Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "filtergraph~",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

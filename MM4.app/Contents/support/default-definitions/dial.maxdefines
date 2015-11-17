@@ -1,0 +1,31 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 1., 1., 1., 1. ],
+			"class" : "dial",
+			"attr" : "fgcolor",
+			"label" : "Dial Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.8633, 0.8633, 0.8633, 1. ],
+			"class" : "dial",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.78, 0.78, 0.78, 1. ],
+			"class" : "dial",
+			"attr" : "outlinecolor",
+			"label" : "Outline Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.664, 0.664, 0.664, 1. ],
+			"class" : "dial",
+			"attr" : "needlecolor",
+			"label" : "Needle Color",
+			"style" : "rgba"
+		}
+ ]
+}

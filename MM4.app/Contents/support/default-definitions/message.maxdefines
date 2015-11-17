@@ -1,0 +1,31 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.867, 0.867, 0.867, 1. ],
+			"class" : "message",
+			"attr" : "bgcolor2",
+			"label" : "Second Gradient Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.867, 0.867, 0.867, 1. ],
+			"class" : "message",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0 ],
+			"class" : "message",
+			"attr" : "gradient",
+			"label" : "Use Second Gradient Color",
+			"style" : "onoff"
+		}
+, 		{
+			"default" : [ 0., 0., 0., 1. ],
+			"class" : "message",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+ ]
+}

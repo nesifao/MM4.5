@@ -1,0 +1,59 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.764706, 0.972549, 0.392157, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "warmcolor",
+			"label" : "Warm Signal Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.584314, 0.584314, 0.584314, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "inactivewarmcolor",
+			"label" : "Inactive Warm Signal Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.756863, 0.039216, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "hotcolor",
+			"label" : "Warning Signal Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.047059, 0.972549, 0.392157, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "coldcolor",
+			"label" : "Cold Signal Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "bgcolor",
+			"label" : "Background color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "slidercolor",
+			"label" : "Background color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.509804, 0.509804, 0.509804, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "inactivecoldcolor",
+			"label" : "Inactive Cold Signal Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.039216, 0.039216, 1.0 ],
+			"class" : "live.meter~",
+			"attr" : "overloadcolor",
+			"label" : "Overload Signal Color",
+			"style" : "rgba"
+		}
+ ]
+}

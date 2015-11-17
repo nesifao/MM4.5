@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<path fill="#D9DADC" d="M128,117.2c0,5.965-4.835,10.8-10.8,10.8H10.8C4.835,128,0,123.165,0,117.2V10.8C0,4.835,4.835,0,10.8,0
+	h106.4c5.965,0,10.8,4.835,10.8,10.8V117.2z"/>
+<ellipse transform="matrix(0.1096 0.994 -0.994 0.1096 121.9489 -5.5441)" fill="#FFFFFF" cx="64.069" cy="65.293" rx="43.154" ry="42.803"/>
+<path fill="none" stroke="#565758" stroke-width="12" stroke-linecap="round" d="M23.347,83.451
+	c-1.938-4.236-3.242-8.852-3.78-13.737c-2.711-24.6,15.033-46.741,39.632-49.452C83.8,17.55,105.94,35.294,108.652,59.895
+	c2.712,24.601-15.033,46.739-39.634,49.451c-8.871,0.979-17.423-0.703-24.858-4.407"/>
+<line fill="none" stroke="#FFF3AB" stroke-width="12" stroke-linecap="round" x1="62.651" y1="66.759" x2="33.225" y2="96.693"/>
+<circle fill="#FFF3AB" cx="63.259" cy="66.016" r="8.629"/>
+<line fill="none" stroke="#808284" stroke-width="12" stroke-linecap="round" x1="62.416" y1="64.991" x2="32.988" y2="94.925"/>
+<circle fill="#808284" cx="63.023" cy="64.248" r="8.63"/>
+</svg>

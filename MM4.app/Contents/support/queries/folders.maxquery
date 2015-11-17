@@ -1,0 +1,20 @@
+{
+	"queries" : [
+		{
+			"name" : "Desktop",
+			"type" : "folder",
+			"path" : "~/Desktop",
+			"order_by" : "name",
+			"order" : "ascending"
+		},
+
+		{
+			"name" : "Boot Drive",
+			"type" : "folder",
+			"path" : "/",
+			"order_by" : "name",
+			"order" : "ascending"
+		}
+		
+	]
+}

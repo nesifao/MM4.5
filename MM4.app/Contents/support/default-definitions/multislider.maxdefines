@@ -1,0 +1,81 @@
+{
+	"definitions" : [ 		
+		{
+			"attr" : "bgcolor",
+			"class" : "multislider",
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"label" : "Background Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "slidercolor",
+			"class" : "multislider",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Slider Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "peakcolor",
+			"class" : "multislider",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Peak Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "bordercolor",
+			"class" : "multislider",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Border Color",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "candicane2",
+			"class" : "multislider",
+			"default" : [ 0.14696, 0.20720, 0.35792, 1.0 ],
+			"label" : "Candycane Color 1",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "candicane3",
+			"class" : "multislider",
+			"default" : [ 0.29392, 0.41441, 0.71583, 1.0 ],
+			"label" : "Candycane Color 2",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "candicane4",
+			"class" : "multislider",
+			"default" : [ 0.44088, 0.62161, 0.07375, 1.0 ],
+			"label" : "Candycane Color 3",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "candicane5",
+			"class" : "multislider",
+			"default" : [ 0.58784, 0.82881, 0.43166, 1.0 ],
+			"label" : "Candycane Color 4",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "candicane6",
+			"class" : "multislider",
+			"default" : [ 0.73480, 0.03601, 0.78958, 1.0 ],
+			"label" : "Candycane Color 5",
+			"style" : "rgba"
+		},
+ 		{
+			"attr" : "candicane7",
+			"class" : "multislider",
+			"default" : [ 0.88176, 0.24321, 0.14749, 1.0 ],
+			"label" : "Candycane Color 6",
+			"style" : "rgba"
+		},
+  		{
+			"attr" : "candicane8",
+			"class" : "multislider",
+			"default" : [ 0.02872, 0.45042, 0.50541, 1.0 ],
+			"label" : "Candycane Color 7",
+			"style" : "rgba"
+		}
+ ]
+}

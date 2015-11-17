@@ -1,0 +1,299 @@
+{
+	"patcher" : 	{
+		"rect" : [ 0.000000, 0.000000, 1000.000000, 1000.000000 ],
+		"name" : "u020000012",
+		"title" : "palette2",
+		"bgcolor" : [ 1.000000, 1.000000, 1.000000, 1.000000 ],
+		"bglocked" : 0,
+		"defrect" : [ 196.000000, 202.000000, 640.000000, 480.000000 ],
+		"boxes" : [ 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "newobj.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 234.000000, 139.000000, 48.000000, 48.000000 ],
+					"id" : "obj-1",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "newobj",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_caption" : "object",
+						"palette_numerical_order" : 1
+					}
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "preset.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 456.000000, 219.000000, 48.000000, 48.000000 ],
+					"id" : "obj-4",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "preset",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 10
+					}
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "slider.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-3",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "slider",
+						"palette_category" : ["Sliders"]
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "flonum.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-8",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "flonum",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 7
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "toggle.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-10",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "toggle",
+						"palette_category" : ["Basic","Buttons"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 5
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "button.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-9",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "button",
+						"palette_category" : ["Basic","Buttons"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 4
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "tab.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-9",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "tab",
+						"palette_category" : ["Buttons"]
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "jit.cellblock.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-9",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "jit.cellblock",
+						"palette_category" : ["Interface"]
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "jweb.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-9",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "jweb",
+						"palette_category" : ["Interface"]
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "itable.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-9",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "itable",
+						"palette_category" : ["Data"]
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "attrui.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "attrui",
+						"palette_category" : ["Interface"]
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "comment.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 332.000000, 292.000000, 48.000000, 48.000000 ],
+					"id" : "obj-11",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "comment",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 3
+					}
+
+				}
+
+			}
+ ],
+		"lines" : [  ]
+	}
+
+}

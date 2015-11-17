@@ -1,0 +1,20 @@
+Help
+
+omx.peaklim~ - OctiMax Peak Lim
+
+Input Gain:  
+Scales level to the limiter.
+
+Final Limiter Drive:
+Gain control before the final limiter.
+
+Response: Punchy / Smooth  
+Controls a tradeoff in the limiter.  
+Punchy Response yields extremely short attack and release times, useful for transparent limiting, or to create loudness. However, if over-used, intermodulation distortion may result.  
+Smooth uses longer attack and release times - still a fast look-ahead limiter, but much less intermodulation distortion. However, the resulting sound isn't as punchy as with Punchy Response.
+
+Output Gain:  
+Scales output level.
+
+Copyright © Octiv Inc. 2000 - 2003
+www.octiv.com

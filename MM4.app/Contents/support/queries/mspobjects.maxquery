@@ -1,0 +1,28 @@
+{
+	"queries" : [
+		{
+			"name" : "msp objects",
+			"columns" : [ "name", "description", "tags", "typed_usage_count" ],
+			"order_by" : "typed_usage_count",
+			"order" : "descending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "name",
+					"comparison" : "endswith",
+					"argument" : "~"
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "object"
+				}
+			]
+		}
+
+	]
+}

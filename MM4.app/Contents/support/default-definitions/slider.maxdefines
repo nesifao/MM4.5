@@ -1,0 +1,24 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 1., 1., 1., 1. ],
+			"class" : "slider",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1. ],
+			"class" : "slider",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.2, 0.2, 0.2, 1. ],
+			"class" : "slider",
+			"attr" : "knobcolor",
+			"label" : "Knob Color",
+			"style" : "rgba"
+		}
+ ]
+}

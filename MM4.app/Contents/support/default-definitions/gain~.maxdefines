@@ -1,0 +1,31 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.66667, 0.66667, 0.66667, 1. ],
+			"class" : "gain~",
+			"attr" : "bgcolor",
+			"label" : "Interior Color 1",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.33334, 0.33334, 0.33334, 1. ],
+			"class" : "gain~",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.86667, 0.86667, 0.86667, 1. ],
+			"class" : "gain~",
+			"attr" : "knobcolor",
+			"label" : "Knob Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.86, 0.9, 0.68, 0.7 ],
+			"class" : "gain~",
+			"attr" : "stripecolor",
+			"label" : "Interior Color 2",
+			"style" : "rgba"
+		}
+ ]
+}

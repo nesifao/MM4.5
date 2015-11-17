@@ -1,0 +1,38 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.66, 0.66, 0.72, 1. ],
+			"class" : "ezdac~",
+			"attr" : "ongradcolor2",
+			"label" : "Foreground Color On 2",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.87, 0.87, 0.87, 1. ],
+			"class" : "ezdac~",
+			"attr" : "offgradcolor1",
+			"label" : "Foreground Color Off 1",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.51, 0.51, 0.51, 1. ],
+			"class" : "ezdac~",
+			"attr" : "bgcolor",
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.7, 0.7, 0.73, 1. ],
+			"class" : "ezdac~",
+			"attr" : "offgradcolor2",
+			"label" : "Foreground Color Off 2",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.75, 0.79, 0.93, 1. ],
+			"class" : "ezdac~",
+			"attr" : "ongradcolor1",
+			"label" : "Foreground Color On 1",
+			"style" : "rgba"
+		}
+ ]
+}

@@ -1,0 +1,86 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.75, 0.75, 0.75, 1.0 ],
+			"class" : "tab",
+			"attr" : "hovertabcolor",
+			"label" : "Tab Color (Mouseover)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.85, 0.85, 0.85, 1.0 ],
+			"class" : "tab",
+			"attr" : "tabcolor",
+			"label" : "Tab Color (Unselected)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.6, 0.6, 0.6, 1.0 ],
+			"class" : "tab",
+			"attr" : "htabcolor",
+			"label" : "Tab Color (Selected)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.85, 0.62, 1.0 ],
+			"class" : "tab",
+			"attr" : "clicktabcolor",
+			"label" : "Tab Color (Clicked)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.15, 0.15, 0.15, 1.0 ],
+			"class" : "tab",
+			"attr" : "textcolor",
+			"label" : "Text Color (Unselected)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1000.0 ],
+			"class" : "tab",
+			"attr" : "fadetime",
+			"label" : "Fade Time (ms)"
+		}
+, 		{
+			"default" : [ 0.4, 0.4, 0.4, 1.0 ],
+			"class" : "tab",
+			"attr" : "borderoncolor",
+			"label" : "Border Color (On)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.1, 0.1, 0.1, 1.0 ],
+			"class" : "tab",
+			"attr" : "htextcolor",
+			"label" : "Text Color (Selected)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "tab",
+			"attr" : "clicktextcolor",
+			"label" : "Text Color (Clicked)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.1, 0.1, 0.1, 1.0 ],
+			"class" : "tab",
+			"attr" : "hovertextcolor",
+			"label" : "Text Color (Mouseover)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0 ],
+			"class" : "tab",
+			"attr" : "fadeunselect",
+			"label" : "Fade After Unselect",
+			"style" : "onoff"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 0.8 ],
+			"class" : "tab",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

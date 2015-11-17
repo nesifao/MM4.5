@@ -1,0 +1,45 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.94902, 0.376471, 0.0, 1.0 ],
+			"class" : "live.button",
+			"attr" : "activebgoncolor",
+			"label" : "Background Color On (Active)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.button",
+			"attr" : "focusbordercolor",
+			"label" : "Border Color (Focus)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.815686, 0.847059, 0.886275, 1.0 ],
+			"class" : "live.button",
+			"attr" : "bgoncolor",
+			"label" : "Background Color On (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.498039, 0.52549, 0.576471, 1.0 ],
+			"class" : "live.button",
+			"attr" : "bgcolor",
+			"label" : "Background Color Off (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.27451, 0.32549, 0.4, 1.0 ],
+			"class" : "live.button",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.498039, 0.52549, 0.576471, 1.0 ],
+			"class" : "live.button",
+			"attr" : "activebgcolor",
+			"label" : "Background Color Off (Active)",
+			"style" : "rgba"
+		}
+ ]
+}

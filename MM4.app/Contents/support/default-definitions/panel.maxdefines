@@ -1,0 +1,39 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.75, 0.79, 0.93, 1.0 ],
+			"class" : "panel",
+			"attr" : "grad1",
+			"label" : "Gradient 1 Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.66, 0.66, 0.72, 1.0 ],
+			"class" : "panel",
+			"attr" : "grad2",
+			"label" : "Gradient 2 Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.66667, 0.66667, 0.66667, 1.0 ],
+			"class" : "panel",
+			"attr" : "bgcolor",
+			"label" : "Interior Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0 ],
+			"class" : "panel",
+			"attr" : "mode",
+			"label" : "Filling Mode",
+			"style" : "enumindex",
+			"enumvals" : [ "Color", "Gradient" ]
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "panel",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

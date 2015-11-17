@@ -1,0 +1,1520 @@
+{
+	"patcher" : 	{
+		"rect" : [ 0.0, 0.0, 1000.0, 1000.0 ],
+		"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+		"bglocked" : 0,
+		"defrect" : [ 10.0, 59.0, 1176.0, 668.0 ],
+		"boxes" : [ 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "dropfile.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Interface"],
+						"palette_action" : "dropfile"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "kslider.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Sliders"],
+						"palette_action" : "kslider"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "jit.scope.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Jitter"],
+						"palette_action" : "jit.scope"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "led.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons"],
+						"palette_action" : "led"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "number~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "number~"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "jit.fpsgui.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Jitter"],
+						"palette_action" : "jit.fpsgui"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "umenu.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Interface"],
+						"palette_action" : "umenu"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "function.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Data","Audio"],
+						"palette_action" : "function"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "playbar.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons", "Interface", "Images"],
+						"palette_action" : "playbar"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "ubutton.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons"],
+						"palette_action" : "ubutton"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "textbutton.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons"],
+						"palette_action" : "textbutton"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "zplane~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "zplane~"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "waveform~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "waveform~"
+					}
+
+				}
+
+			}
+,			{	
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "pictctrl.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons", "Interface"],
+						"palette_action" : "pictctrl"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 790.0, 41.0, 180.0, 157.0 ],
+					"autofit" : 0,
+					"id" : "obj-28",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "matrixctrl.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons"],
+						"palette_action" : "matrixctrl"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 149.0, 484.0, 152.0, 150.0 ],
+					"autofit" : 0,
+					"id" : "obj-26",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "suckah.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Interface"],
+						"palette_action" : "suckah"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 736.0, 219.0, 152.0, 150.0 ],
+					"autofit" : 0,
+					"id" : "obj-24",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "radiogroup.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Interface", "Buttons" ],
+						"palette_action" : "radiogroup"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 380.0, 461.0, 152.0, 150.0 ],
+					"autofit" : 0,
+					"id" : "obj-23",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "multislider.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Sliders"],
+						"palette_action" : "multislider"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 625.0, 59.0, 152.0, 150.0 ],
+					"autofit" : 0,
+					"id" : "obj-22",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "swatch.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Interface"],
+						"palette_action" : "swatch"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 622.0, 401.0, 152.0, 150.0 ],
+					"autofit" : 0,
+					"id" : "obj-3",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "nslider.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Sliders"],
+						"palette_action" : "nslider"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 55.0, 392.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-20",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "textedit.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Interface"],
+						"palette_action" : "textedit"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 55.0, 392.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-25",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "spectroscope~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "spectroscope~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 55.0, 392.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-1",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "incdec.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons"],
+						"palette_action" : "incdec"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 43.0, 121.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-19",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "scope~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "scope~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 34.0, 44.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-18",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "rslider.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Sliders"],
+						"palette_action" : "rslider"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 197.0, 394.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-17",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "pictslider.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Sliders"],
+						"palette_action" : "pictslider"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 221.0, 320.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-16",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "panel.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Interface"],
+						"palette_action" : "panel"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 476.0, 32.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-15",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "meter~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "meter~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 180.0, 34.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-14",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "levelmeter~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "levelmeter~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 180.0, 34.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-14",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "jit.pwindow.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Jitter"],
+						"palette_action" : "jit.pwindow"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 342.0, 20.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-13",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "lcd.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Images", "Interface" ],
+						"palette_action" : "lcd"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 346.0, 394.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-12",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "jsui.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Images", "Interface" ],
+						"palette_action" : "jsui"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 357.0, 320.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-11",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "imovie.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Images"],
+						"palette_action" : "imovie"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 487.0, 369.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-10",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "hint.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Interface"],
+						"palette_action" : "hint"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 475.0, 302.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-9",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "gain~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Sliders", "Audio"],
+						"palette_action" : "gain~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 475.0, 302.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-9",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "gswitch.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons"],
+						"palette_action" : "gswitch"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 475.0, 302.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-9",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "gswitch2.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Buttons"],
+						"palette_action" : "gswitch2"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 470.0, 245.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-8",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "filtergraph~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "filtergraph~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 494.0, 180.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-7",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "ezdac~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "ezdac~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 482.0, 100.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-6",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "ezadc~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Audio"],
+						"palette_action" : "ezadc~"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 348.0, 97.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-5",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "dial.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : ["Sliders"],
+						"palette_action" : "dial"
+					}
+
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.000000,
+					"presentation" : 0,
+					"destrect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"patching_rect" : [ 241.000000, 244.000000, 100.000000, 50.000000 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "fpic.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Images", "Interface" ],
+						"palette_action" : "fpic"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.slider.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.slider"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.tab.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.tab"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.text.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.text"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.arrows.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.arrows"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.dial.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.dial"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.gain~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.gain~"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.meter~.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.meter~"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.numbox.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.numbox"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.menu.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.menu"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.step.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.step"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.grid.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.grid"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "live.line.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Live" ],
+						"palette_action" : "live.line"
+					}
+
+				}
+
+			}
+,			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"boxalpha" : 1.0,
+					"presentation" : 0,
+					"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+					"autofit" : 0,
+					"id" : "obj-2",
+					"ignoreclick" : 0,
+					"hidden" : 0,
+					"fontname" : "Courier",
+					"pic" : "nodes.svg",
+					"xoffset" : 0.0,
+					"yoffset" : 0.0,
+					"background" : 0,
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"fontsize" : 12.0,
+					"instance_attributes" : 					{
+						"palette_category" : [ "Interface", "Data", "Sliders" ],
+						"palette_action" : "nodes"
+					}
+
+				}
+			}
+ 			,			{
+							"box" : 				{
+								"maxclass" : "fpic",
+								"boxalpha" : 1.0,
+								"presentation" : 0,
+								"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+								"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+								"autofit" : 0,
+								"id" : "obj-2",
+								"ignoreclick" : 0,
+								"hidden" : 0,
+								"fontname" : "Courier",
+								"pic" : "live.drop.svg",
+								"xoffset" : 0.0,
+								"yoffset" : 0.0,
+								"background" : 0,
+								"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+								"fontsize" : 12.0,
+								"instance_attributes" : 					{
+									"palette_category" : [ "Live" ],
+									"palette_action" : "live.drop"
+								}
+
+							}
+
+						}
+						,			{
+										"box" : 				{
+											"maxclass" : "fpic",
+											"boxalpha" : 1.0,
+											"presentation" : 0,
+											"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+											"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+											"autofit" : 0,
+											"id" : "obj-2",
+											"ignoreclick" : 0,
+											"hidden" : 0,
+											"fontname" : "Courier",
+											"pic" : "live.button.svg",
+											"xoffset" : 0.0,
+											"yoffset" : 0.0,
+											"background" : 0,
+											"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+											"fontsize" : 12.0,
+											"instance_attributes" : 					{
+												"palette_category" : [ "Live" ],
+												"palette_action" : "live.button"
+											}
+
+										}
+
+									}
+									,			{
+													"box" : 				{
+														"maxclass" : "fpic",
+														"boxalpha" : 1.0,
+														"presentation" : 0,
+														"destrect" : [ 0.0, 0.0, 0.0, 0.0 ],
+														"patching_rect" : [ 241.0, 244.0, 100.0, 50.0 ],
+														"autofit" : 0,
+														"id" : "obj-2",
+														"ignoreclick" : 0,
+														"hidden" : 0,
+														"fontname" : "Courier",
+														"pic" : "live.toggle.svg",
+														"xoffset" : 0.0,
+														"yoffset" : 0.0,
+														"background" : 0,
+														"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+														"fontsize" : 12.0,
+														"instance_attributes" : 					{
+															"palette_category" : [ "Live" ],
+															"palette_action" : "live.toggle"
+														}
+
+													}
+
+												}
+
+
+],
+		"lines" : [  ]
+	}
+
+}

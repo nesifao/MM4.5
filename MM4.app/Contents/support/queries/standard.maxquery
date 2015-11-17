@@ -1,0 +1,168 @@
+{
+	"queries" : [
+		{
+			"name" : "everything",
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				}
+			]
+		},
+
+		{
+			"name" : "objects",
+			"columns" : [ "name", "description", "tags", "typed_usage_count" ],
+			"order_by" : "typed_usage_count",
+			"order" : "descending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "object"
+				}
+			]
+		},
+
+		{
+			"name" : "patchers",
+			"columns" : [ "name", "rolename", "typed_usage_count", "date_modified", "tags" ],
+			"order_by" : "typed_usage_count",
+			"order" : "descending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "patcher"
+				}
+			]
+		},
+		
+		{
+			"name" : "clippings",
+			"columns" : [ "name", "rolename", "date_modified", "tags" ],
+			"order_by" : "typed_usage_count",
+			"order" : "descending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "clipping"
+				}
+			]
+		},
+		
+		{
+			"name" : "recent",
+			"order_by" : "date_modified",
+			"order" : "descending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "lastmodified",
+					"comparison" : "last2weeks"
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindnot",
+					"argument" : "folder"
+				}
+			]
+		},
+		
+		{
+			"name" : "images",
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "imagefile"
+				}
+			]
+		},
+
+		{
+			"name" : "audio files",
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "audiofile"
+				}
+			]
+		},
+
+		{
+			"name" : "movie files",
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "kind",
+					"comparison" : "kindis",
+					"argument" : "moviefile"
+				}
+			]
+		},
+
+		{
+			"name" : "midi related",
+			"order_by" : "name",
+			"order" : "ascending",
+			"slots" : [ 				
+				{
+					"field" : "name",
+					"comparison" : "beginswith",
+					"argument" : ""
+				},
+				{
+					"field" : "tag",
+					"comparison" : "contains",
+					"argument" : "MIDI"
+				}
+		 	]
+		}
+
+	]
+}

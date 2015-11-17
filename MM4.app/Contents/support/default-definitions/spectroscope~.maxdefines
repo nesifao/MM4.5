@@ -1,0 +1,87 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 1.0, 0.0, 0.0, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "sonohicolor",
+			"label" : "Sonogram Color Hi Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.94267, 0.94267, 0.94267, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "bgcolor",
+			"label" : "Spectrogram Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.87843, 0.87843, 0.87843, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "fgcolor",
+			"label" : "Spectrogram Foreground Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "curvecolor",
+			"label" : "Curve Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "sonomonobgcolor",
+			"label" : "Sonogram Monochrome Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.62817, 0.62817, 0.62817, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "sonolocolor",
+			"label" : "Sonogram Color Lo Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "markercolor",
+			"label" : "Marker Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "sonomonofgcolor",
+			"label" : "Sonogram Monochrome Foreground Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.0, 0.5, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "sonomedlocolor",
+			"label" : "Sonogram Color Med-Lo Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.75, 0.5, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "sonomedcolor",
+			"label" : "Sonogram Color Med Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.75, 0.0, 1.0 ],
+			"class" : "spectroscope~",
+			"attr" : "sonomedhicolor",
+			"label" : "Sonogram Color Med-Hi Color",
+			"style" : "rgba"
+		}
+ ]
+}

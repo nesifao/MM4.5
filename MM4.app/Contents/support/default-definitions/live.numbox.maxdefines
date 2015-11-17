@@ -1,0 +1,66 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "focusbordercolor",
+			"label" : "Border Color (Focus)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.572549, 0.615686, 0.658824, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "activetricolor",
+			"label" : "Triangle Color Default (Active)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 0.380392, 0.0, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "activetricolor2",
+			"label" : "Triangle Color (Active)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.815686, 0.847059, 0.886275, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "tricolor",
+			"label" : "Triangle Color Default (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.94902, 0.756863, 0.309804, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "activeslidercolor",
+			"label" : "Slider Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.27451, 0.32549, 0.4, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.572549, 0.615686, 0.658824, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "tricolor2",
+			"label" : "Triangle Color (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.909804, 0.909804, 0.909804, 1.0 ],
+			"class" : "live.numbox",
+			"attr" : "activebgcolor",
+			"label" : "Background Color (Active)",
+			"style" : "rgba"
+		}
+ ]
+}

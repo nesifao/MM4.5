@@ -1,0 +1,73 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "textcolor",
+			"label" : "Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "focusbordercolor",
+			"label" : "Border Color (Focus)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.752941, 0.784314, 0.839216, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "dialcolor",
+			"label" : "Dial Color (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.94902, 0.376471, 0.0, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "activedialcolor",
+			"label" : "Dial Color (Active)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.27451, 0.32549, 0.4, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "tribordercolor",
+			"label" : "Triangle Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.019608, 0.078431, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "activeneedlecolor",
+			"label" : "Needle Color (Active)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.403922, 0.454902, 0.54902, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "needlecolor",
+			"label" : "Needle Color (Inactive)",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.572549, 0.615686, 0.658824, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "tricolor",
+			"label" : "Triangle Color Default",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.27451, 0.32549, 0.4, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "bordercolor",
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.85098, 0.866667, 0.886275, 1.0 ],
+			"class" : "live.dial",
+			"attr" : "panelcolor",
+			"label" : "Panel Color",
+			"style" : "rgba"
+		}
+ ]
+}

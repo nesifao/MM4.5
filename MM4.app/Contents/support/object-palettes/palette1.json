@@ -1,0 +1,142 @@
+{
+	"patcher" : 	{
+		"rect" : [ 0.000000, 0.000000, 1000.000000, 1000.000000 ],
+		"name" : "u267000002",
+		"title" : "Untitled",
+		"bgcolor" : [ 1.000000, 1.000000, 1.000000, 1.000000 ],
+		"bglocked" : 0,
+		"defrect" : [ 147.000000, 118.000000, 640.000000, 480.000000 ],
+		"boxes" : [ 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "outlet.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 394.000000, 88.000000, 48.000000, 48.000000 ],
+					"id" : "obj-6",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "outlet",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 9
+					}
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "number.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 503.000000, 190.000000, 48.000000, 48.000000 ],
+					"id" : "obj-5",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "number",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 6
+					}
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "message.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 350.000000, 245.000000, 48.000000, 48.000000 ],
+					"id" : "obj-4",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "message",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 2
+					}
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "inlet.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 366.000000, 153.000000, 48.000000, 48.000000 ],
+					"id" : "obj-3",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"background" : 0,
+					"instance_attributes" : {
+						"palette_action" : "inlet",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 8
+					}
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"maxclass" : "fpic",
+					"ignoreclick" : 0,
+					"presentation_rect" : [ 0.000000, 0.000000, 0.000000, 0.000000 ],
+					"hidden" : 0,
+					"pic" : "bpatcher.svg",
+					"autofit" : 1,
+					"patching_rect" : [ 223.000000, 198.000000, 48.000000, 48.000000 ],
+					"id" : "obj-2",
+					"boxalpha" : 1.000000,
+					"fontname" : "Courier",
+					"presentation" : 0,
+					"fontsize" : 16.000000,
+					"instance_attributes" : {
+						"palette_action" : "bpatcher",
+						"palette_category" : ["Basic"],
+						"palette_order" : "first",
+						"palette_numerical_order" : 11
+					}
+				}
+
+			}
+ ],
+		"lines" : [ 			{
+				"patchline" : 				{
+					"source" : [ "obj-1", 0 ],
+					"destination" : [ "obj-6", 0 ],
+					"hidden" : 0,
+					"color" : [ 0.000000, 0.000000, 0.000000, 1.000000 ],
+					"midpoints" : [  ]
+				}
+
+			}
+ ]
+	}
+
+}

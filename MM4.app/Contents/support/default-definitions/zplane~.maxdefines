@@ -1,0 +1,59 @@
+{
+	"definitions" : [ 		{
+			"attr" : "bgcolor",
+			"class" : "zplane~",
+			"default" : [ 0.75, 0.75, 0.75, 1.0 ],
+			"label" : "Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "fgcolor",
+			"class" : "zplane~",
+			"default" : [ 0.83333, 0.83333, 0.83333, 1.0 ],
+			"label" : "Foreground Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "gridlinecolor",
+			"class" : "zplane~",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Grid Line Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "axiscolor",
+			"class" : "zplane~",
+			"default" : [ 1.0, 0.0, 0.0, 1.0 ],
+			"label" : "Axis Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "polezerocolor",
+			"class" : "zplane~",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Pole and Zero Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "hlcolor",
+			"class" : "zplane~",
+			"default" : [ 1.0, 1.0, 0.0, 0.66667 ],
+			"label" : "Highlight Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "circlebordercolor",
+			"class" : "zplane~",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Circle Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "bordercolor",
+			"class" : "zplane~",
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"label" : "Border Color",
+			"style" : "rgba"
+		}
+ ]
+}

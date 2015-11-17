@@ -1,0 +1,24 @@
+{
+	"definitions" : [ 		{
+			"attr" : "offcolor",
+			"class" : "led",
+			"default" : [ 0.6, 0.0, 0.0, 1.0 ],
+			"label" : "Inactive LED Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "oncolor",
+			"class" : "led",
+			"default" : [ 1.0, 0.0, 0.0, 1.0 ],
+			"label" : "Outline Color",
+			"style" : "rgba"
+		}
+, 		{
+			"attr" : "bgcolor",
+			"class" : "led",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Hilited LED Color",
+			"style" : "rgba"
+		}
+ ]
+}

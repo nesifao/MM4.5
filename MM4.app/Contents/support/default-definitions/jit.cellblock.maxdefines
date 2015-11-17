@@ -1,0 +1,52 @@
+{
+	"definitions" : [ 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "jit.cellblock",
+			"attr" : "textcolor",
+			"label" : "Default Header Text Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.82, 0.82, 0.9, 1.0 ],
+			"class" : "jit.cellblock",
+			"attr" : "hcellcolor",
+			"label" : "Default Selection Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"class" : "jit.cellblock",
+			"attr" : "gridlinecolor",
+			"label" : "Default Grid Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.7, 0.7, 0.7, 1.0 ],
+			"class" : "jit.cellblock",
+			"attr" : "headercolor",
+			"label" : "Default Header Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"class" : "jit.cellblock",
+			"attr" : "bgcolor",
+			"label" : "Default Background Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"class" : "jit.cellblock",
+			"attr" : "bordercolor",
+			"label" : "Default Border Color",
+			"style" : "rgba"
+		}
+, 		{
+			"default" : [ 0.0, 0.0, 0.0, 1.0 ],
+			"class" : "jit.cellblock",
+			"attr" : "fgcolor",
+			"label" : "Default Foreground Color",
+			"style" : "rgba"
+		}
+ ]
+}

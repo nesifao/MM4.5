@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_4_copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="126.147px" height="126.146px" viewBox="0 0 126.147 126.146" enable-background="new 0 0 126.147 126.146"
+	 xml:space="preserve">
+<circle fill="#FFFFFF" cx="63.074" cy="63.073" r="60.574"/>
+<path fill="none" stroke="#356809" stroke-width="4" stroke-linecap="round" d="M3.685,67.916c-0.02-0.183-0.032-0.365-0.035-0.548
+	C3.451,57.081,28.975,46.026,61.426,42.483c31.505-3.44,58.163,1.441,61.546,10.96c0.163,0.46,0.272,0.932,0.325,1.413"/>
+<path fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" d="M57.506,3.271c0.458-0.05,0.918-0.048,1.379,0.004
+	C68.93,4.407,79.507,29.418,82.976,60.997c3.46,31.488-1.398,58.137-10.904,61.547c-0.465,0.167-0.94,0.278-1.428,0.332"/>
+<circle fill="none" stroke="#5D97C2" stroke-width="5" cx="63.074" cy="63.073" r="60.574"/>
+<path fill="none" stroke="#565758" stroke-width="4" stroke-linecap="round" d="M70.644,122.876
+	c-10.44,1.146-21.844-24.697-25.473-57.726C41.543,32.122,47.067,4.419,57.506,3.271"/>
+<path fill="none" stroke="#599E59" stroke-width="4" stroke-linecap="round" d="M123.298,54.856
+	c1.14,10.441-24.713,21.828-57.742,25.436C32.524,83.896,4.825,78.354,3.685,67.916"/>
+<radialGradient id="SVGID_1_" cx="47.9741" cy="79.4932" r="79.9431" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.0726" style="stop-color:#F8FAFC"/>
+	<stop  offset="0.1798" style="stop-color:#E4EBF3"/>
+	<stop  offset="0.3078" style="stop-color:#C4D4E5"/>
+	<stop  offset="0.3407" style="stop-color:#BACDE1"/>
+	<stop  offset="0.368" style="stop-color:#B6CBE0"/>
+	<stop  offset="0.7972" style="stop-color:#76A5CA"/>
+	<stop  offset="1" style="stop-color:#5D97C2"/>
+</radialGradient>
+<circle opacity="0.6" fill="url(#SVGID_1_)" cx="63.074" cy="63.073" r="62.391"/>
+</svg>

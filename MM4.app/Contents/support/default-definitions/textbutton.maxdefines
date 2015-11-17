@@ -1,0 +1,74 @@
+{
+	"definitions" : [ 		
+		{
+			"attr" : "bgcolor",
+			"class" : "textbutton",
+			"default" : [ 0.75, 0.75, 0.75, 1.0 ],
+			"label" : "Background Color (Off)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "textcolor",
+			"class" : "textbutton",
+			"default" : [ 0.15, 0.15, 0.15, 1.0 ],
+			"label" : "Text Color (off)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "bgovercolor",
+			"class" : "textbutton",
+			"default" : [ 0.7, 0.7, 0.7, 1.0 ],
+			"label" : "Background Color (Off Mouseover)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "textovercolor",
+			"class" : "textbutton",
+			"default" : [ 0.1, 0.1, 0.1, 1.0 ],
+			"label" : "Text Color (Off Mouseover)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "bgoncolor",
+			"class" : "textbutton",
+			"default" : [ 0.55, 0.55, 0.55, 1.0 ],
+			"label" : "Background Color (On)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "textoncolor",
+			"class" : "textbutton",
+			"default" : [ 1.0, 1.0, 1.0, 1.0 ],
+			"label" : "Foreground Color (On Mouseover)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "bgoveroncolor",
+			"class" : "textbutton",
+			"default" : [ 0.5, 0.5, 0.5, 1.0 ],
+			"label" : "Background Color (On Mouseover)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "textoveroncolor",
+			"class" : "textbutton",
+			"default" : [ 0.9, 0.9, 0.9, 1.0 ],
+			"label" : "Text Color (On Mouseover)",
+			"style" : "rgba"
+		},
+	 	{
+			"attr" : "bordercolor",
+			"class" : "textbutton",
+			"default" : [ 0.6, 0.6, 0.6, 1.0 ],
+			"label" : "Border Color (Off)",
+			"style" : "rgba"
+		},
+		{
+			"attr" : "borderoncolor",
+			"class" : "textbutton",
+			"default" : [ 0.4, 0.4, 0.4, 1.0 ],
+			"label" : "Border Color (On)",
+			"style" : "rgba"
+		}
+	]
+}
